@@ -1,0 +1,6 @@
+keybind = ctrl+t=new_split:down
+keybind = ctrl+h=new_split:right
+keybind = ctrl+n=goto_split:bottom
+keybind = ctrl+b=goto_split:top
+keybind = ctrl+j=scroll_page_down
+keybind = ctrl+k=scroll_page_up
